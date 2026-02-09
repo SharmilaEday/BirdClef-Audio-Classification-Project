@@ -5,7 +5,7 @@
 1. Clone this repository:
 
 ```
-git clone git@github.com:ramyasri-m/BirdCLEF.git
+git clone https://github.com/SharmilaEday/BirdClef-Audio-Classification-Project.git
 ```
 2. Create a virtual environment using [virtualenv](https://virtualenv.pypa.io/en/latest/) and install library requirements for Windows:
 
